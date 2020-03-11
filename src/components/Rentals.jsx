@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 
-class Customer extends Component {
+class Rentals extends Component {
   state = {};
   render() {
-    return <div>Customer</div>;
+    return <div>Rentals</div>;
   }
 }
 
-export default Customer;
+export default Rentals;
